@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "643538526479",
+    "firebase_url": "https://meatshop-d8592.firebaseio.com",
+    "project_id": "meatshop-d8592",
+    "storage_bucket": "meatshop-d8592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643538526479:android:0d8c8e9bae684afe7f1e7a",
+        "android_client_info": {
+          "package_name": "com.example.meatstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643538526479-oen54cv8rjccittit1frb3sof2lb1fjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meatstore",
+            "certificate_hash": "ac3b7ba4da1194b4c27cf8768198ff651bd970a8"
+          }
+        },
+        {
+          "client_id": "643538526479-p2ji99khg6h6chu37d13vv8in55jk8pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznwX4JZz52oPHqF-dL4AUqR2LdHl-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643538526479-p2ji99khg6h6chu37d13vv8in55jk8pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643538526479:android:887216a37d0ab0137f1e7a",
+        "android_client_info": {
+          "package_name": "com.example.meatstoreadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643538526479-8akb5netl7fcumgdte5c32e1vtsicmih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meatstoreadmin",
+            "certificate_hash": "ac3b7ba4da1194b4c27cf8768198ff651bd970a8"
+          }
+        },
+        {
+          "client_id": "643538526479-p2ji99khg6h6chu37d13vv8in55jk8pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQznwX4JZz52oPHqF-dL4AUqR2LdHl-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643538526479-p2ji99khg6h6chu37d13vv8in55jk8pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

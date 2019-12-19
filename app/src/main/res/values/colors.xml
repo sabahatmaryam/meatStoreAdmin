@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FCFCFC</color>
+    <color name="colorPrimary">#FFFFFF</color>
+
+
+    <color name="colorPrimaryDark">#D3B5B5</color>
+    <color name="colorPrimaryLight">#ECAB90</color>
+    <color name="colorAccent">#E8902C</color>
+    <color name="textInputLayout">#96ffffff</color>
+    <color name="black">#000000</color>
+    <color name="colorText">#000000</color>
+
+    //colors  for categoy imageviews
+
+    <color name="pastel_red">#E7DDDD</color>
+    <color name="pastel_blue">#E9EEEE</color>
+    <color name="pastel_green">#E2E2E1</color>
+    <color name="pastel_orange">#E6E6E4</color>
+    <color name="pastel_yellow">#F3EDDE</color>
+    <color name="pastel_purple">#F0ECF1</color>
+
+</resources>
